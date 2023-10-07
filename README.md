@@ -1,6 +1,6 @@
 # Phonepe_plus_data_analysis
 
-I have created a dashboard to visualize Phonepe pulse Github repository data(https://github.com/PhonePe/pulse) using Streamlit and Plotly in Python
+I have created a dashboard to visualize Phonepe pulse Github repository data(https://github.com/PhonePe/pulse) using Streamlit and Plotly in Python 
 
 Introduction
 
