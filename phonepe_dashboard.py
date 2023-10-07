@@ -402,7 +402,7 @@ if option == "About":
         st.write(" ")
         st.write(" ")
         st.markdown("### :violet[About PhonePe Pulse:] ")
-        st.write("""# This dashboard app is created by *Jareshiah samuel*!
+        st.write("""# This dashboard app is created by *Monisha Sivaraman*!
                                         Data has been cloned from Phonepe Pulse Github Repo""")
         st.write(
             "##### BENGALURU, India, On Sept. 3, 2021 PhonePe, India's leading fintech platform, announced the launch of PhonePe Pulse, India's first interactive website with data, insights and trends on digital payments in the country. The PhonePe Pulse website showcases more than 2000+ Crore transactions by consumers on an interactive map of India. With  over 45% market share, PhonePe's data is representative of the country's digital payment habits.")
